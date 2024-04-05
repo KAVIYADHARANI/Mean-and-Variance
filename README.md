@@ -1,5 +1,6 @@
 #  Mean and variance of a discrete  distribution
-
+# DEVELOPED BY : KAVIYA D
+# REGISTER NUMBER : 212223040089
 
 # Aim : 
 
